@@ -1,0 +1,4 @@
+#header{height:205px;background-image:url(image/bg.gif);background-position:center top;}
+#banner{width:1000px;height:164px;margin:0 auto;position:absolute;left:25px;top:38px;}
+#nav{height:40px;background-image:url(imager/nav.jpg);}
+.nav_body{width:1000px;margin:0 auto;font-style:bold;font-color:red;}

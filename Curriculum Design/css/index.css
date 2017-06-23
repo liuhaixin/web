@@ -1,0 +1,31 @@
+			p{line-height: 30px;}
+			body{background-image: url(../images/back.png);font-size:16px;color:black;font-weight: bold;}
+			a:link{font-size: 16px;color:black;text-decoration: none;font-weight: bold;}
+			a:hover{font-size:16px;color:yellow;text-decoration: underline;}
+			#header{background-image: url(../images/back.png);height: 50px;}
+			#bg_left{padding-top: 10px;float:left;}
+			#bg_zhong{float:left;}
+			#bg_right{padding-top: 10px;float:right;display:inline;}
+			#logo{position: absolute;top:110px;left:170px;}
+			#search{position: absolute;top:0px;left:250px;height:40px;}
+			#search ul li{list-style-type: none;display:inline;}
+			#bgul{height:40px;width:720px;padding-top: 10px;}
+			#under{position: absolute;top:50px;left:240px;}
+			#banner{position: absolute;top:250px;left:200px;}
+			#mianbao{position: absolute;top:540px;left:230px;}
+			#denglu{position: absolute;top:0px;left:950px;}
+			#zhuce{position: absolute;top:0px;left:1000px;}
+			#sou{position: absolute;top:540px;right:200px;}
+			#sousuo{width:100px;height: 20px;border:solid 2px black;}
+			#content{padding-top: 500px;padding-left: 180px;}
+			#content_line{position: absolute;top:630px;}
+			#body_bg{width:970px;height:1050px;background-color: white;}
+			#title{font-size: 24px;font-weight: bold;padding-left: 280px;position: absolute;top:700px;}
+			#underline{padding-left: 170px;position: absolute;top: 750px;}
+			#title2{font-size: 12px;padding-left: 350px;position: absolute;top:780px;}
+			#p1{padding-left:20px;position: absolute;top:840px;width: 900px;}
+			#lj{padding-left: 250px;padding-top: 650px;}
+			#talk{font-size: 14px;color:red;padding-left: 200px;position: absolute;top:1750px;}
+			#sub{padding-left: 880px;}
+			#foot{width:100%;background-color: #444444;height:130px;position: absolute;top:1950px;}
+			#bottom_1{line-height: 30px;font-size: 14px;}

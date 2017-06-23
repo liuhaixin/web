@@ -1,0 +1,50 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#d1{
+    background-image: url(../image/bj.png);
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 500px;
+    color: white;
+}
+#d2{
+    background-image: url(../image/header.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 60px;
+}
+ul{
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+}
+.b{
+    background-image: url(../image/baibiaoti.png);
+
+    background-repeat: no-repeat;
+    margin:8px 10px;
+    padding: 10px 50px;
+    width: 250px;
+    height: 20px;
+}
+#special{
+    background-image: url(../image/lvbiaoti.png);
+    /*background-position: center;*/
+    background-repeat: no-repeat;
+    margin:8px 10px;
+    padding: 10px 50px;
+
+    width: 250px;
+    height: 20px;
+}
+#d3{
+    width: 250px;
+    height: 60px;
+}

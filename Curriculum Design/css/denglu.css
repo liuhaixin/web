@@ -1,0 +1,21 @@
+.table{
+    width:300px;
+    height:50px;
+    margin:auto;
+}
+body{
+    color:white;
+    position:relative;
+    top:200px;
+    left:500px;
+}
+.div{
+    width:350px;
+    height:300px;
+    background-image:url(../images/beijing.jpg);
+    background-repeat: no-repeat;
+}
+html{
+    width:100%;
+    overflow-x: hidden;
+}
